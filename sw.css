@@ -1,0 +1,122 @@
+@charset "utf-8";
+body {
+    font: 12px "microsoft yahei", Arial, Helvetica, sans-serif;
+    color:#666;
+    margin:0px;
+    padding:0px;
+}
+ul,li,p,h1,h2,h3,h4,h5,h6,dl,dt,dd {
+    margin:0px;
+    padding:0px;
+    border:none;
+    list-style:none;
+}
+input {border:none;}
+.lf   {float:left;}
+.rt  {float:right;}
+.clear  {clear:both;}
+section{
+    margin:0px auto;
+}
+section{
+    width:1211px;
+    height:1060px;
+    border:1px solid #ccc;
+    background-image: linear-gradient(to bottom,#EEF1F2 0,#FFFFFF 100%);
+}
+asider{
+    float:left;
+    margin:39px 13px 50px 15px;
+}
+#swdh{
+    border:1px solid #ddd;
+}
+asider p{
+    font-size:16px;
+    font-weight:bold;
+    line-height:16px;
+    margin-bottom:20px;
+}
+asider p b{
+    background:#e3493c;
+    padding:1px 5px;
+    border-radius:3px;
+    margin-right:10px;
+}
+article ul{
+    margin:10px;
+}
+asider ul li{
+    font-size:15px;
+    line-height:30px;
+}
+article{
+    width:960px;
+    height:1060px;
+    border-left:1px solid #ddd;
+    float:right;
+    margin-top:16px;
+}
+article div{
+    width:922px;
+    height:30px;
+    margin:0px auto;
+    border-bottom:1px solid #ddd;
+    margin-top:16px;
+    overflow:hidden;
+}
+article div #p1{
+    float:left;
+    font-size:15px;
+    margin-left:10px;
+}
+article div #p2{
+    float:right;
+    margin-top:5px;
+}
+article div #p1 b{
+    background:#e3493c;
+    padding:1px 5px;
+    border-radius:3px;
+    margin-right:10px;
+}
+article ul li{
+    color:#666666;
+    font-size:15px;
+    line-height:30px;
+}
+
+#xwbt{
+    width:869px;
+   text-align:center;
+    margin:13px;
+    font-size:13pt;
+}
+#swjs {
+    font-size:16px;
+    margin:10px;
+    clear:both;
+}
+tr{
+    margin-top:20px;
+}
+tr p{
+    text-align: center;
+    margin: 10px 0px 20px;
+}
+#footer{
+    float:right;
+    width:360px;
+}
+#fy{
+    float:left;
+    margin:30px 30px 0px 0px;
+}
+article ul{
+    margin:24px 30px 0px 0px;
+}
+article ul li{
+    padding:0px 6px 0px 6px;
+    border-radius:5px;
+    margin-right:6px;
+}

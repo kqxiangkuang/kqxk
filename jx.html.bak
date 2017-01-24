@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>康旗相框厂</title>
+    <link href="animation.css" rel="Stylesheet" />
+    <link href="common.css" rel="Stylesheet"/>
+</head>
+<body>
+<header id="top">
+<div id="top_fist">
+<div id="top_fist_box">
+<span>你好欢迎来到康旗相框网站</span>
+<ul>
+<li>
+<img src="img/star.jpg"/>
+<a href="file:///C:/Users/WTT/Desktop/相框厂项目%20-%20副本/jds.html">保存到桌面</a>
+<b></b>
+<li/>
+<li>
+ <li><a onclick="AddFavorite(window.location,document.title)" href="javascript:void(0)">加入收藏</a>
+ <b></b>
+<li/>
+<ul/>
+</div>
+</div>
+<img src="img/top_title.png"/>
+<header/>
+<nav id="nav">
+<ul id="nav_items">
+<li><a href="#">公司首页</a></li>
+<li><a href="#">公司简介</a></li>
+<li><a href="#">产品展示</a></li>
+<li><a href="#">新闻动态</a></li>
+<li><a href="#">人才招聘</a></li>
+<li><a href="#">广告加盟</a></li>
+<li><a href="#">联系我们</a></li>
+<ul/>
+</nav>
+</body>                                                                                                  </html>

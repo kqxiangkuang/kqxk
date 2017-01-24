@@ -1,0 +1,69 @@
+@charset "utf-8";
+body {
+	font: 12px "microsoft yahei", Arial, Helvetica, sans-serif;
+    color:#666;
+    margin:0px;
+    padding:0px;
+}
+ul,li,p,h1,h2,h3,h4,h5,h6,dl,dt,dd {
+    margin:0px;
+    padding:0px;
+    border:none;
+    list-style:none;
+}
+input {border:none;}
+.lf   {float:left;}
+.rt  {float:right;}
+.clear  {clear:both;}
+
+/*整体布局*/
+#top_box,#top_main,#nav,#banner,#main,#foot_box,#footer {
+    width:1211px;
+    margin:0px auto;
+}
+#top{
+      text-align:center;
+	  
+}
+#nav {
+    height:40px;
+}
+#foot_box {
+    height:173px;
+}
+#footer {
+    height:180px;
+}
+h1{
+	float:left;
+}
+#cqt{
+	border:1px solid #ddd;
+	width:1211px;
+	height:350px;
+	margin:auto;
+	margin-top:3px;
+}
+article ul li{
+		float:left;
+}
+#dh{
+	height:28px;
+	background:#FFEA00;
+}
+article p{
+	margin-left:10px;
+	font-size:16px;
+	font-weight:bold;
+	font-style:italic;
+	text-align:center;
+	line-height:middle;
+	line-height:28px;
+	float:left;
+	letter-spacing:5px;
+	color: #AB3C3C;
+}
+section>div{
+	border:1px solid back;
+	padding-left:0px;
+}
